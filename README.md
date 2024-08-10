@@ -158,7 +158,12 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
+Hephzibah Onovo - [Github](https://github.com/NecheHephzibah) / [Twitter](https://twitter.com/wonder80485309)
+Langelihle Malaza - [Github] (https://github.com/LanMalJR) /
 
 Second part of Airbnb: Joann Vuong
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.
+
+## README.md Updated 8/10/2024
+Done with the console, database and creation of API using Flask in the AirBnB project, the next phase is requesting API using JQuery Ajax and manipulation of DOM.
