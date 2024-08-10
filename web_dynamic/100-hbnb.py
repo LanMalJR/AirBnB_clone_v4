@@ -19,7 +19,7 @@ def close_db(error):
     storage.close()
 
 
-@app.route('/3-hbnb', strict_slashes=False)
+@app.route('/100-hbnb', strict_slashes=False)
 @cross_origin()
 def hbnb():
     """ HBNB is alive! """
@@ -36,7 +36,7 @@ def hbnb():
     places = storage.all(Place).values()
     places = sorted(places, key=lambda k: k.name)
 
-    return render_template('3-hbnb.html',
+    return render_template('4-hbnb.html',
                            states=st_ct,
                            amenities=amenities,
                            places=places,
@@ -52,4 +52,3 @@ if __name__ == "__main__":
     if not port:
         port = '5000'
     app.run(host=host, port=port, threaded=True)
-    
