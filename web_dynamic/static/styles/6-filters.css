@@ -71,7 +71,7 @@ button:hover {
 .amenities .popover {
     padding: 10px 0;
     margin-left: -5px;
-    margin-top: -10%; /* This was previously 0% */
+    margin-top: 0%;
 }
 
 .amenities .popover ul{
@@ -79,7 +79,7 @@ button:hover {
 }
 
 .locations .popover {
-    margin-top: -10%; /* This was previously 0% */
+    margin-top: 0%;
 }
 .popover ul {
     list-style-type: none;
